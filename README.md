@@ -9,3 +9,5 @@ There two datasets Respectively one Consists of Tweets from Twitter with Sentime
 
  1. Twitter Dataset
  2. Reddit Dataset
+
+All these Tweets and Comments were extracted using there Respective Apis Tweepy and PRAW. These tweets and Comments Were Made on Narendra Modi and Other Leaders as well as Peoples Opinion Towards the Next Prime Minister of The Nation ( In Context with General Elections Held In India - 2019). All the Tweets and Comments From twitter and Reddit are Cleaned using Pythons re and also NLP with a Sentimental Label to each ranging from -1 to 1.
