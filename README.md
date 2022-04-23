@@ -15,3 +15,8 @@ All these Tweets and Comments were extracted using there Respective Apis Tweepy 
       1.  0 Indicating it is a Neutral Tweet/Comment
       2.  1 Indicating a Postive Sentiment
       3. -1 Indicating a Negative Tweet/Comment
+
+### Content
+
+  * Twitter.csv Dataset has around 163K Tweets along with Sentiment Labels.
+  * Reddit.csv Dataset has around 37K Comments along with its Sentimental Label
