@@ -20,3 +20,5 @@ All these Tweets and Comments were extracted using there Respective Apis Tweepy 
 
   * Twitter.csv Dataset has around 163K Tweets along with Sentiment Labels.
   * Reddit.csv Dataset has around 37K Comments along with its Sentimental Label
+
+So Generally Each Dataset has two columns, the first column has the cleaned tweets and Comments and the Second one indicates its Sentimental Label
