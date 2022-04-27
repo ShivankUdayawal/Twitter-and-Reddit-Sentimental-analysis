@@ -1,0 +1,65 @@
+Coursera Agile Software Development Week 3 Peer-Graded Assignment Answers
+
+Project Title *		Applying the Agile Mindset and Techniques
+
+
+PROMPT
+Blue Bank has always used the traditional waterfall method to deliver IT projects. Harold Johnson and the company leadership have suggested that you also use traditional methods to build the software. You have a different idea. You think agile would be better for this situation.
+In the space below, make a case to Harold as to why we should switch to agile (explain why using agile is a better choice for this project/situation). Be sure to support your argument by referring back to the case study text.
+Ans.
+An agile mindset is the set of attitudes supporting an agile working environment. These include respect, collaboration, improvement and learning cycles, pride in ownership, focus on delivering value, and the ability to adapt to change. 
+This mindset is necessary to cultivate high-performing teams, who in turn deliver amazing value for their customers.
+Though the solution are defined in advance, they can be modified at any time by using agile methodology. Requirements Stories can be provided periodically implying better chances for mutual understanding among developer and user. 
+The user gets an opportunity to evaluate solution modules to determine whether the business need is being met thus ensuring quality outcomes.
+This mindset is the environment within which agile teams flourish. 
+It isn’t a prerequisite for an agile adoption, nor is it required for a functional agile team. But if this mindset is cultivated and nourished, whether before, during or after agile adoption, the teams (and therefore the company) will experience amazing results - happy employees delivering great value and making customers elated with the results.
+
+
+PROMPT
+Assume Harold liked your argument and agreed to proceed with agile on this project. In his reply, Harold asked for further guidance on how to move forward. Please reply back with the following:
+1. What things will have to change on how this team operates and how key stakeholders interact or engage on this project. (Hint: as you have learned, for agile to be successful there are certain prerequisites and it poses certain challenges for leadership/business stakeholders as well)
+2. The team is new to Agile and based on prerequisites for agile to be successful, please specify if you and your team need any help or training etc. If none, please state that.
+Ans.
+When working in agile, you must think in terms of: working on width instead of working at depth. Your main priority should be to get the most important features of the orders done, as well as the most important features needed for billing. 
+An Agile team needs everyone required to produce the end product or service. Therefore, the team is typically cross-functional, and team roles will vary depending on the needs of the project and the type of Agile framework that is chosen.
+For instance, when using a Scrum framework, an Agile team should have a Scrum Master and a Product Owner, as well as any other required Team Members. The Scrum Master (often the Project Manager) is responsible for overseeing the project, facilitating collaboration, and organizing the daily meetings. 
+The Product Owner is responsible for ensuring the end product meets the requirements of the customer. Subject matter experts and other stakeholders may provide input into the project as needed, but they’re not typically considered part of the Agile team.
+
+
+PROMPT
+Harold is pretty impressed by your response and has approved all of your recommendations in previous two responses. 
+He then re-iterated the key criteria for success and asked you if he and his management team should expect anything different from this project in terms for tracking and status updates.
+Are there any project constraints laid out in the case study that need to be changed/managed since you will be using agile and, in agile, planning, estimation and tracking happens differently?
+Hint: The case study implies certain project constraints/expectations around cost, timeline, other factors that need to managed/changed.
+Ans.
+The three primary constraints that Harold should be familiar with are time, scope and cost. These are frequently known as the triple constraints or the project management triangle. 
+Each constraint is connected to the other two; so, for example, increasing the scope of the project will likely require more time and money, while speeding up the timeline for the project may cut costs, but also diminish the scope. 
+Under traditional project management, scope is viewed as being fixed at the start of a project, something that must be “locked down.” 
+Time and cost are then adjusted to come up with an acceptable plan. The problem is that scope frequently changes during the life of a project, with impacts to both time and cost. 
+The result is that all three constraints become variable as the project moves forward. Very often, this results in cost overruns and late deliveries. 
+Eventually the requirements may be met, but stakeholders often feel unhappy with higher costs and delays.
+Agile takes a different approach by turning the triple constraints upside down. Rather than viewing scope as fixed at the start, Agile sets time (iterations) and cost (team members) as fixed; scope is then adjusted to focus on the highest priorities. 
+Agile is built with the expectation that scope will evolve over time. The goal is to deliver the client's most important requirements within the budgeted cost and time. Agile allows for new requirements or re-prioritization as the project moves forward.
+By committing to a defined cost and schedule up front, executives can feel confident approving the work. And in the end, clients, team members and interested stakeholders often find the Agile approach to be more successful than traditional methods.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Coursera Agile Software Development Week 4 Peer-Graded Assignment Answers
+
+
+Project Title *		Story Mapping
+
+
+PROMPT
+The case study specifies some of the key functionality that the IT team needs to build. You are responsible for the mobile app.
+For the mobile app, create a story map to show the user experience and what you need to build. Feel free to add fictitious functionality and features as you feel appropriate. You will be graded on the quality, completeness, and correctness of your story map.
+Please make sure that your story map has all the functionality listed in mobile app section (section 18) in the case study.
+You may create the story map using any tool you wish (for example, LibreOffice Writer/Draw or Microsoft Word/Visio). Once finished, you will upload the document here.
+Ans.
+PDF Link to upload is given in Description please check!
+
+TITLE		Story Mapping
+
+CAPTION	Story Mapping
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
