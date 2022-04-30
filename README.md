@@ -27,7 +27,7 @@ So Generally Each Dataset has two columns, the first column has the cleaned twee
 https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset
 
 
-## Twitter
+## Twitter Sentimental Analysis
 ![](https://github.com/ShivankUdayawal/Twitter-and-Reddit-Sentimental-analysis/blob/main/Data%20Visualization/02.jpg)
 
 ![](https://github.com/ShivankUdayawal/Twitter-and-Reddit-Sentimental-analysis/blob/main/Data%20Visualization/08.jpg)
