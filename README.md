@@ -23,12 +23,13 @@ All these Tweets and Comments were extracted using there Respective Apis Tweepy 
 
 So Generally Each Dataset has two columns, the first column has the cleaned tweets and Comments and the Second one indicates its Sentimental Label
 
-### Data Source
+### Data Source :
 https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset
 
 
 ## Twitter Sentimental Analysis
 ![](https://github.com/ShivankUdayawal/Twitter-and-Reddit-Sentimental-analysis/blob/main/Data%20Visualization/02.jpg)
+
 
 ## Reddit Sentimental Analysis
 ![](https://github.com/ShivankUdayawal/Twitter-and-Reddit-Sentimental-analysis/blob/main/Data%20Visualization/08.jpg)
